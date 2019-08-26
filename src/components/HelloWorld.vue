@@ -1,11 +1,182 @@
 <template>
-  <div class="container">
-  <h2>Basic Card</h2>
-  <div class="card">
-    <div class="card-body">Basic card</div>
+  <div class="container center">
+    <div class="card bg-light align-self-center" style="width:420px">
+      <img class="card-header card-img-left" style="width:30px" src="https://banner2.kisspng.com/20180527/jvh/kisspng-minesweeper-classic-mines-minesweeper-for-androi-5b0a595546c4e9.9123787515274048852899.jpg">
+      <div class="card-header">Minesweeper!!</div>
+      <div class="card-body">
+        <div>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <br>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <br>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <br>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <br>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <br>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <br>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <br>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <br>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <br>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <br>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <br>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+          <br>
+        </div>
+      </div>
+    </div>
   </div>
-</div>
-
 </template>
 
 <script>
