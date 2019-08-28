@@ -1,10 +1,12 @@
 <template>
-  <div class="container center">
-    <div class="card bg-light align-self-center" style="width:420px">
-      <img class="card-header card-img-left" style="width:30px" src="https://banner2.kisspng.com/20180527/jvh/kisspng-minesweeper-classic-mines-minesweeper-for-androi-5b0a595546c4e9.9123787515274048852899.jpg">
+  <div class="container-fluid">
+    <div class="card bg-light">
+      <!-- <img class="card-header card-img-left" src="https://banner2.kisspng.com/20180527/jvh/kisspng-minesweeper-classic-mines-minesweeper-for-androi-5b0a595546c4e9.9123787515274048852899.jpg"> -->
       <div class="card-header">Minesweeper!!</div>
-      <div class="card-body">
-        <div>
+      <div class="card-body align-self-center">
+        <div class="d-flex flex-nowrap">
+          <button type="button" class="pailin btn btn-secondary text-dark btn-sm">X</button>
+          <button type="button" class="pailin btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
@@ -16,9 +18,10 @@
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+        </div>
+        <div class="d-flex flex-nowrap">
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
-          <br>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
@@ -30,9 +33,10 @@
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+        </div>
+        <div class="d-flex flex-nowrap">
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
-          <br>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
@@ -44,9 +48,10 @@
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+        </div>
+        <div class="d-flex flex-nowrap">
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
-          <br>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
@@ -58,9 +63,10 @@
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+         </div>
+        <div class="d-flex flex-nowrap">
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
-          <br>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
@@ -72,9 +78,10 @@
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+        </div>
+        <div class="d-flex flex-nowrap">
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
-          <br>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
@@ -86,9 +93,10 @@
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+        </div>
+        <div class="d-flex flex-nowrap">
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
-          <br>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
@@ -100,9 +108,10 @@
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+        </div>
+        <div class="d-flex flex-nowrap">
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
-          <br>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
@@ -114,9 +123,10 @@
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+        </div>
+        <div class="d-flex flex-nowrap">
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
-          <br>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
@@ -128,9 +138,10 @@
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+        </div>
+        <div class="d-flex flex-nowrap">
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
-          <br>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
@@ -142,9 +153,10 @@
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+        </div>
+        <div class="d-flex flex-nowrap">
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
-          <br>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
@@ -156,9 +168,10 @@
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
+        </div>
+        <div class="d-flex flex-nowrap">
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
-          <br>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
@@ -170,9 +183,6 @@
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
           <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
-          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
-          <button type="button" class="btn btn-secondary text-dark btn-sm">X</button>
-          <br>
         </div>
       </div>
     </div>
@@ -190,6 +200,10 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+.pailin {
+  color: red;
+  background-color: blue;
+}
 h3 {
   margin: 40px 0 0;
 }
